@@ -1,3 +1,4 @@
+# Thanks to Bro Code on Youtube for the python tutorials
 #MadLibs game
 # adjective1 = input("Enter an adjective: ")
 # noun = input("Enter a noun: ")
