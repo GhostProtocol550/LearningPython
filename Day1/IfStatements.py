@@ -21,8 +21,8 @@
 # else:
 #     print(f"Hello {name}.")
 
-online = False
-if online:
-    print("The user is online.")
-else:
-    print("The user is not online.")
+# online = False
+# if online:
+#     print("The user is online.")
+# else:
+#     print("The user is not online.")
